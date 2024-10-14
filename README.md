@@ -5,7 +5,7 @@ Welcome to **NewsRoom** – an Android application that fetches the latest news 
 This project is designed for Android beginners looking to learn and implement industry-standard patterns and technologies to build modern Android apps. 
 
 <p align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/fir-demo-9e712.appspot.com/o/Screenshot_20241014_183546.png?alt=media&token=3d86e23b-eb0b-44c8-bd5d-9c405cdae64d" alt="NewsRoom">
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-demo-9e712.appspot.com/o/Screenshot_20241014_183546.png?alt=media&token=3d86e23b-eb0b-44c8-bd5d-9c405cdae64d" alt="NewsRoom" width="200">
 </p>
 
 ---
@@ -66,34 +66,8 @@ Watch the NewsRoom app in action! Click the video below:
    ```bash
    NEWS_API_KEY="your_api_key_here"
 
-
-🔧 Project Structure
-bash
-NewsRoom/
-├── data/
-│   ├── api/
-│   │   └── NewsApiService.kt      # Retrofit interface for News API
-│   ├── model/
-│   │   └── NewsArticle.kt         # Data class representing a news article
-│   └── repository/
-│       └── NewsRepository.kt      # Repository for fetching news data
-├── di/
-│   └── AppModule.kt               # Koin module for dependency injection
-├── ui/
-│   ├── main/
-│   │   └── MainActivity.kt        # Main Activity with toolbar and search view
-│   ├── home/
-│   │   └── HomeFragment.kt        # Fragment to display news articles
-│   └── viewmodel/
-│       └── NewsViewModel.kt       # ViewModel for handling business logic
-├── utils/
-│   └── NetworkUtils.kt            # Utility class for network-related functions
-└── ... App.kt                     # Application class
-
-
 🌟 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
-
 
 🙌 Acknowledgments
 Thanks to NewsAPI for the awesome API service.
