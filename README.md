@@ -16,7 +16,7 @@ Watch the NewsRoom app in action! Click the video below:
 
 [![NewsRoom App Demo]
 <p align="center">
-<video src="https://firebasestorage.googleapis.com/v0/b/fir-demo-9e712.appspot.com/o/Screen_recording_20241014_183649.webm?alt=media&token=6a957dd3-366f-43df-8365-7b06ca86ce35" width="320" height="240" controls></video>
+<video src="https://firebasestorage.googleapis.com/v0/b/fir-demo-9e712.appspot.com/o/Screen_recording_20241014_183649.mp4?alt=media&token=7c4ee33d-ffd7-445b-9909-dbd3b079d51e" width="320" height="240" controls></video>
 </p>
 
 ---
