@@ -8,19 +8,6 @@ This project is designed for Android beginners looking to learn and implement in
   <img src="https://firebasestorage.googleapis.com/v0/b/fir-demo-9e712.appspot.com/o/Screenshot_20241014_183546.png?alt=media&token=3d86e23b-eb0b-44c8-bd5d-9c405cdae64d" alt="NewsRoom" width="200">
 </p>
 
----
-
-## 🎥 App Demo
-
-Watch the NewsRoom app in action! Click the video below:
-
-[![NewsRoom App Demo]
-<p align="center">
-<video src="https://firebasestorage.googleapis.com/v0/b/fir-demo-9e712.appspot.com/o/Screen_recording_20241014_183649.mp4?alt=media&token=7c4ee33d-ffd7-445b-9909-dbd3b079d51e" width="320" height="240" controls></video>
-</p>
-
----
-
 ## ✨ Features
 
 - Fetch Latest News : Get up-to-date news articles using [NewsAPI](https://newsapi.org/).
